@@ -7,6 +7,8 @@
 ### ABOUT THE DATASET
 Twitter data that was scraped from February of 2015 where there are tweets from various airlines and they are classified into three categories: - positive, negative and neutral. There are 14,641 tweets which are trained with the help of machine learning techniques and natural language processing. Each tweet is only 280 characters which allow people to use many shortcuts and are not in proper language processing.
 
+##
+### SAMPLE DATASET
 ![image](https://user-images.githubusercontent.com/80042740/117542865-10b6ba80-b038-11eb-8087-a5bd6178aac8.png)
 
 ##
