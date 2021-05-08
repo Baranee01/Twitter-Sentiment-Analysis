@@ -25,35 +25,39 @@ Twitter data that was scraped from February of 2015 where there are tweets from 
 ### EXPLORATORY DATA ANALYSIS
 ![image](https://user-images.githubusercontent.com/80042740/117543030-bd913780-b038-11eb-9e10-c891741a25d8.png)
 
-Here, the tweets are classified as positive, negative and neutral where most of the tweets are negative.
+The tweets are classified as positive, negative and neutral where most of the tweets are negative (ie) People who travel in the airlines mostly had negative experience.
 
-![image](https://user-images.githubusercontent.com/80042740/117543036-c255eb80-b038-11eb-818b-73d47e2981dc.png)
+![image](https://user-images.githubusercontent.com/80042740/117543516-d4388e00-b03a-11eb-9a58-49879e674692.png)
 
-Here, total number of tweets in each airline company are displayed.
+Total number of tweets in each airline company are displayed. Here people mostly travelled in United Airlines and less travelled in Virgin America Airlines.
 
 ![image](https://user-images.githubusercontent.com/80042740/117543047-cb46bd00-b038-11eb-8fbe-672eb83a3687.png)
 
-Here, tweets are classified into positive, negative and neutral for each airline company.
+The tweets are classified into positive, negative and neutral for each airline company. In all the airlines, people mostly had negative experience.
 
 ##
 ### MODELS
-### Decision Tree
-![image](https://user-images.githubusercontent.com/80042740/117543183-5c1d9880-b039-11eb-8b0c-7de440b4035d.png)
+Here models are built to predict the sentiment of people travelling in the airlines.
 
-Decision Tree model has the accuracy of 69%.
+### Decision Tree
+![image](https://user-images.githubusercontent.com/80042740/117543663-6345a600-b03b-11eb-9b7d-71b1f4bd5836.png)
+
+Decision Tree model has predicted the results with an accuracy of 69%.
 
 ### Random Forest
-![image](https://user-images.githubusercontent.com/80042740/117543094-fe894c00-b038-11eb-8c42-d3d835a38216.png)
+![image](https://user-images.githubusercontent.com/80042740/117543671-6b054a80-b03b-11eb-9a85-88296880c7ee.png)
 
-Random Forest model has the accuracy of 75%.
+Random Forest model has predicted the results with an accuracy of 75%.
 
 ### Support Vector Machines
-![image](https://user-images.githubusercontent.com/80042740/117543106-0a750e00-b039-11eb-8689-109842efe0df.png)
+![image](https://user-images.githubusercontent.com/80042740/117543677-722c5880-b03b-11eb-9d77-d783e87d69fb.png)
 
-Support Vector Machines model has the accuracy of 76%.
+Support Vector Machines model has predicted the results with an accuracy of 76%.
 
 ##
 ### RESULTS AND ANALYSIS
 ![image](https://user-images.githubusercontent.com/80042740/117543130-1d87de00-b039-11eb-85f2-7bdf50804fe6.png)
 
 By comparing all the models, Support Vector Machines has performed well with an accuracy of 76%.
+
+From all the above analysis we can conclude that, people mostly had negative experience during the travel. So based on the tweets, all the Airline companies must improve their customer experience.
