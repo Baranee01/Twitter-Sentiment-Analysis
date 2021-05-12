@@ -1,7 +1,8 @@
 # Twitter Sentiment Analysis
 
-#### Language Used : Python 3.8
-#### Packages Used : numpy, pandas, seaborn, matplotlib, sklearn, nltk
+Language Used : Python 3.8
+
+Packages Used : numpy, pandas, seaborn, matplotlib, sklearn, nltk
 
 ##
 ### ABOUT THE DATASET
